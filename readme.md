@@ -4,8 +4,8 @@
 
 #### How to run This Project
 
-* git clone https://github.com/antheiz/Django-Blog.git
-* cd Django-Blog
+* git clone https://github.com/antheiz/django-blog.git
+* cd django-blog
 * python -m venv python-env
 * source python-env/bin/activate/
 * pip install -r requirements.txt
